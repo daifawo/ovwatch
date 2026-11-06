@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="right">
   <b>中文</b> | <a href="./README_Eng.md">English</a> 
 </p>
@@ -219,3 +220,5 @@ if(keystr == 1)
 3. Commit your changes: `git commit -am 'Add some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request!
+=======
+>>>>>>> origin/main
